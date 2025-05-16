@@ -1,0 +1,14 @@
+source btcrecover-env/bin/activate
+
+python btcrecover.py --wallet wallet.dat --passwordlist passwords.txt
+
+deactivate
+
+
+
+
+
+source myenv/bin/activate
+
+
+
